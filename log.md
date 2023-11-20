@@ -14,3 +14,17 @@ The images on the carousel were a bit hard to size. However, adding a height, to
 I also used display-flex to position the elements within the landing-page section. However, Mark advised me to add a class of row instead. And that enabled the elements within the section to still display side by side.
 
 It has all in all been a successful day. Tomorrow I polish the landing page and majorly work on the Sign Up/Sign In Page.
+
+## Day 2: November 20, 2023
+### Project: High School- Modal
+#### 11 to 12
+This is actually day 3. Sigh! Im indicating it as day 2 because the on actual day 2 I didn't make much progress. I mean I did a quite a lot towards the project but there was not much visible progress. I worked on the modal but using html and javascript; not bootstrap as I am supposed to. This should be the very last time I am making such an entry. All work towards this challenge must be recorded.
+
+So, about today... I worked on the modal that contains the sign in form. It was a bit of a challenge at first getting the modal to appear since the bootstrap documentation was not up to date with the version. I got to know this from stack overflow. Eg. "data-toggle" does not work anymore on modals; it should be "data-bs-toggle".
+
+Besides that little in hitch getting the modal to work, I feel that bootstrap is really convenient since the sign-in page/modal was cute and pre-made. I feel that once I familiarize myself with all the classes and elements Bootstrap will be really convenient to use. Tho I kinda miss CSS. I had gotten so comfortable with it. But still I feel Bootstrap will be an asset once I get comfortable with it.
+
+Im going on a break now. I might pick up from where Ive left after the break or do something else. Either way Ill write the update of what Ive been up to here. 
+
+
+
