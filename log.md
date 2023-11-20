@@ -17,14 +17,25 @@ It has all in all been a successful day. Tomorrow I polish the landing page and 
 
 ## Day 2: November 20, 2023
 ### Project: High School- Modal
-#### 11 to 12
+#### 11 to 12noon
 This is actually day 3. Sigh! Im indicating it as day 2 because the on actual day 2 I didn't make much progress. I mean I did a quite a lot towards the project but there was not much visible progress. I worked on the modal but using html and javascript; not bootstrap as I am supposed to. This should be the very last time I am making such an entry. All work towards this challenge must be recorded.
 
 So, about today... I worked on the modal that contains the sign in form. It was a bit of a challenge at first getting the modal to appear since the bootstrap documentation was not up to date with the version. I got to know this from stack overflow. Eg. "data-toggle" does not work anymore on modals; it should be "data-bs-toggle".
 
 Besides that little in hitch getting the modal to work, I feel that bootstrap is really convenient since the sign-in page/modal was cute and pre-made. I feel that once I familiarize myself with all the classes and elements Bootstrap will be really convenient to use. Tho I kinda miss CSS. I had gotten so comfortable with it. But still I feel Bootstrap will be an asset once I get comfortable with it.
 
-Im going on a break now. I might pick up from where Ive left after the break or do something else. Either way Ill write the update of what Ive been up to here. 
+Im going on a break now. I might pick up from where Ive left after the break or do something else. Either way Ill write the update of what Ive been up to here.
+
+### Project: High School- About Page
+#### 2 to 4 pm
+I worked on the about page. I initially thought of using ejs to make the about page but I thought it would complicate things so I continued with Bootstrap.
+
+On the bright side I figured out that the node modules folder is only visible once express is installed. I was wondering why I couldnt see the node modules folder despite having installed npm.
+
+Its been an okay session all in all.
+
+Tomorrow I finish up the mock ups to get a sense of direction, add a footer to the pages and also develop another page.
+
 
 
 
