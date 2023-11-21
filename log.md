@@ -56,8 +56,18 @@ The next one hour was spent on the navigation.html page. I added cards to the pa
 
 I also edited the image sizes using photos editor.
 
-##### 11 to 12
+##### 11 to 12noon
 ### Project: High School- Navigation Page responsive and Events Page
 Ive been working on the responsiveness of the navigation.html page. I also added the events. html page which is quite similar to the navigation page. I feel like there is a better way to make these similar/ repetitive html pages. But Illjust work with what I know then research later.
 
 Ill be back for the 3rd session in a few. Ill indicate what I'll do.
+
+##### 4 to 5pm
+### Project: High School- Clubs page
+I worked on the clubs and societies page.
+
+I contemplated using ejs since the html pages are becoming many but I thought I should have a guideline for the templates once I make them. 
+
+Tomorrow I finish the few remaining pages and style everything correctly.
+
+I should also consider researching on ejs.
