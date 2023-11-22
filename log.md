@@ -84,3 +84,10 @@ Worked on Results and school rules page successfully
 Worked on the contact form. I was intending to import one from the internet but the one I imported is not working. I am considering changing forms because of this to save on time.
 
 After my break I hope to finish up the contact form and perhaps add ready-made footers.
+
+### Project: High School- Results and school rules page
+#### 12 noon to 1pm
+Finished up the contact form (It is yet to be styled) 
+I also added a footer to index.htl
+
+I customize the footer in the next session. I also start beautifying and properly styling the website.
