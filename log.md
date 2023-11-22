@@ -85,9 +85,15 @@ Worked on the contact form. I was intending to import one from the internet but 
 
 After my break I hope to finish up the contact form and perhaps add ready-made footers.
 
-### Project: High School- Results and school rules page
+### Project: High School- Contact form
 #### 12 noon to 1pm
 Finished up the contact form (It is yet to be styled) 
 I also added a footer to index.htl
 
 I customize the footer in the next session. I also start beautifying and properly styling the website.
+
+### Project: High School- Footer
+#### 2pm to 3pm
+Customized the footer. For some reason it looks okay on the index.html page but not the other pages.
+
+Tomorrow I beautify and style everything Including the footer.
