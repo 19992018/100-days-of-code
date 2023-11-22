@@ -45,7 +45,7 @@ Its been an okay session all in all.
 
 Tomorrow I finish up the mock ups to get a sense of direction, add a footer to the pages and also develop another page.
 
-## Day 3: November 20, 2023
+## Day 3: November 21, 2023
 
 ### Project: High School- Navigation Page
 
@@ -71,3 +71,16 @@ I contemplated using ejs since the html pages are becoming many but I thought I 
 Tomorrow I finish the few remaining pages and style everything correctly.
 
 I should also consider researching on ejs.
+
+## Day 4: November 22, 2023
+
+### Project: High School- Results and school rules page
+
+#### 8 to 9 am
+Worked on Results and school rules page successfully
+
+### Project: High School- Results and school rules page
+#### 11 to 12 noon
+Worked on the contact form. I was intending to import one from the internet but the one I imported is not working. I am considering changing forms because of this to save on time.
+
+After my break I hope to finish up the contact form and perhaps add ready-made footers.
