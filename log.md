@@ -57,16 +57,20 @@ The next one hour was spent on the navigation.html page. I added cards to the pa
 I also edited the image sizes using photos editor.
 
 ##### 11 to 12noon
+
 ### Project: High School- Navigation Page responsive and Events Page
+
 Ive been working on the responsiveness of the navigation.html page. I also added the events. html page which is quite similar to the navigation page. I feel like there is a better way to make these similar/ repetitive html pages. But Illjust work with what I know then research later.
 
 Ill be back for the 3rd session in a few. Ill indicate what I'll do.
 
 ##### 4 to 5pm
+
 ### Project: High School- Clubs page
+
 I worked on the clubs and societies page.
 
-I contemplated using ejs since the html pages are becoming many but I thought I should have a guideline for the templates once I make them. 
+I contemplated using ejs since the html pages are becoming many but I thought I should have a guideline for the templates once I make them.
 
 Tomorrow I finish the few remaining pages and style everything correctly.
 
@@ -77,23 +81,59 @@ I should also consider researching on ejs.
 ### Project: High School- Results and school rules page
 
 #### 8 to 9 am
+
 Worked on Results and school rules page successfully
 
 ### Project: High School- Results and school rules page
+
 #### 11 to 12 noon
+
 Worked on the contact form. I was intending to import one from the internet but the one I imported is not working. I am considering changing forms because of this to save on time.
 
 After my break I hope to finish up the contact form and perhaps add ready-made footers.
 
 ### Project: High School- Contact form
+
 #### 12 noon to 1pm
-Finished up the contact form (It is yet to be styled) 
+
+Finished up the contact form (It is yet to be styled)
 I also added a footer to index.htl
 
 I customize the footer in the next session. I also start beautifying and properly styling the website.
 
 ### Project: High School- Footer
+
 #### 2pm to 3pm
+
 Customized the footer. For some reason it looks okay on the index.html page but not the other pages.
 
 Tomorrow I beautify and style everything Including the footer.
+
+## Day 4: November 23, 2023
+
+### Project: High School- Footer Styling
+
+#### 11 to 12 noon
+
+Worked on the footers.
+Fixed the odd look it had on most pages.
+Take it up from results page.
+
+## Day 5: November 23, 2023
+
+### Project: High School- Styling pages - Home, Contact, About
+
+#### session 1: 8 to 10am
+
+Styled Home Contact and About Page
+Home: only sizing images remaining
+
+Research on making grid system responsive. Continue with research after the break.
+
+### Project: High School- Styling pages
+
+#### session 1: 1pm to 2pm- Clubs, Events Navigation.
+
+I was able to style the pages that have a grid layout. After more than an hour of research trying to do this, I decided to seek help from my Love and Mentor Mark❤❤, who showed me how to.
+
+The other pages look okay. In the next session, I will size the images correctly and probably fix up the navbar for it to be responsive. From there I can look into how to integrate backend into the project.
