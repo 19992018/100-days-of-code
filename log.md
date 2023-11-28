@@ -137,3 +137,13 @@ Research on making grid system responsive. Continue with research after the brea
 I was able to style the pages that have a grid layout. After more than an hour of research trying to do this, I decided to seek help from my Love and Mentor Mark❤❤, who showed me how to.
 
 The other pages look okay. In the next session, I will size the images correctly and probably fix up the navbar for it to be responsive. From there I can look into how to integrate backend into the project.
+
+## Day 6: November 28, 2023
+
+### Project: High School- Backend: Sign In modal page
+
+#### session: 3:30 to 5pm
+
+I attempted to make the login page work. Its still working but thats probably because I havent connected it to the backend.
+
+In the next session I attempt have a fully working login page.
