@@ -148,11 +148,11 @@ I attempted to make the login page work. Its still working but thats probably be
 
 In the next session I attempt have a fully working login page.
 
-## Day 7: November 28, 2023
+## Day 7: December 1, 2023
 
 ### Project: High School- Backend: EJS
 
-#### 1st session: 11:38 to 12:10
+#### 1st session: 11:38 to 12:10pm
 
 I switched my focus from trying to make the login page/section work to incorporating EJS into my project as Mark adviced. I went through old projects and the ejs documentation, trying to find out how ejs works.
 
@@ -174,3 +174,23 @@ https://ejs.co/#:~:text=EJS%20is%20a%20simple%20templating,of%20iteration%20and%
 https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application
 
 In the next session I put what I have learnt into action.
+
+## Day 7: December 1, 2023
+
+### Project: High School- Backend: EJS practical
+
+#### 2nd session: 2:30 to 5pm
+
+I successfully put part of what I learnt into action! Congrats to me!
+
+I was able to render the index.ejs page successfully.
+The index.ejs page has a footer and header partial and both were rendered successfully.
+
+\*\*\*I tried serving the static resources in the public folder but I was unsuccessful.
+
+I then moved on to incorporate nodemon into my project. I did that successfully such that when I run NODEMON SERVER/SERVER.JS the project runs successfully.
+
+\*\*\*I then tried to make the website run when NPM RUN SERVE is ran, but I get an error that:
+Cannot find module 'C:\Users\Margret Mauno\Desktop\WebDevelopment\high-school\index.js'
+
+I fix the errors with an asterisk tomorrow
