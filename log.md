@@ -147,3 +147,30 @@ The other pages look okay. In the next session, I will size the images correctly
 I attempted to make the login page work. Its still working but thats probably because I havent connected it to the backend.
 
 In the next session I attempt have a fully working login page.
+
+## Day 7: November 28, 2023
+
+### Project: High School- Backend: EJS
+
+#### 1st session: 11:38 to 12:10
+
+I switched my focus from trying to make the login page/section work to incorporating EJS into my project as Mark adviced. I went through old projects and the ejs documentation, trying to find out how ejs works.
+
+EJS works by adding a partials folder to the views folder of the project. The partials folder contains the ejs files that are consistent in all the pages. Id say it contains the recurring template code, if that makes sense.
+
+The following are also key to know when using EJS:
+<%- %> - For HTML templating
+<% %> - For control flow statements
+<%= %> - When expecting a JS output.
+
+One can link the EJS files to the server or javascript file using the line:
+
+app.set('view engine', 'ejs');
+
+For more details I can always check the documentation or other websites. These two were really fundamental in helping me understand:
+
+https://ejs.co/#:~:text=EJS%20is%20a%20simple%20templating,of%20iteration%20and%20control%2Dflow.
+
+https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application
+
+In the next session I put what I have learnt into action.
